@@ -50,5 +50,5 @@ This project was created as part of a **React skill test** at **Greens Technolog
 
 ---
 
-## 🗂️ Folder Structure (Overview)
+📝 *Feel free to fork this repo, give it a ⭐, or use it for learning purposes!*
 
